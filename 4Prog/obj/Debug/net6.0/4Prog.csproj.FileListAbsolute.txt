@@ -1,0 +1,15 @@
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.csproj.AssemblyReference.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.AssemblyInfoInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.AssemblyInfo.cs
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.csproj.CoreCompileInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\bin\Debug\net6.0\4Prog.exe
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\bin\Debug\net6.0\4Prog.deps.json
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\bin\Debug\net6.0\4Prog.runtimeconfig.json
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\bin\Debug\net6.0\4Prog.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\bin\Debug\net6.0\4Prog.pdb
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\refint\4Prog.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.pdb
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\4Prog.genruntimeconfig.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\4Prog\obj\Debug\net6.0\ref\4Prog.dll
