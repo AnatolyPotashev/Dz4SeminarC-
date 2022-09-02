@@ -2,6 +2,7 @@
 // заполненный нулями и единицами 
 // в случайном порядке.
 
+
 int[] array = new int[8];
 foreach (int num in array)
 {
