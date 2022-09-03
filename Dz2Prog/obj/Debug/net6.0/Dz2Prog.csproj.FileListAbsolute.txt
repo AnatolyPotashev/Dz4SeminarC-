@@ -1,0 +1,15 @@
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.csproj.AssemblyReference.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.AssemblyInfoInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.AssemblyInfo.cs
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.csproj.CoreCompileInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\bin\Debug\net6.0\Dz2Prog.exe
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\bin\Debug\net6.0\Dz2Prog.deps.json
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\bin\Debug\net6.0\Dz2Prog.runtimeconfig.json
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\bin\Debug\net6.0\Dz2Prog.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\bin\Debug\net6.0\Dz2Prog.pdb
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\refint\Dz2Prog.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.pdb
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\Dz2Prog.genruntimeconfig.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar4\Dz2Prog\obj\Debug\net6.0\ref\Dz2Prog.dll
